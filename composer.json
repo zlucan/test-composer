@@ -13,6 +13,6 @@
             "name": "test author"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
