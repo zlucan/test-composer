@@ -1,6 +1,6 @@
 <?php
 
-namespace TempNamespace;
+namespace TestBuild\App;
 
 class FirstClass
 {
