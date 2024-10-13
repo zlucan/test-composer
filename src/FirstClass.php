@@ -20,6 +20,7 @@ class FirstClass
         return $this->b;
     }
 
+    // Return sum
     public function sum()
     {
         return $this->a + $this->b;
